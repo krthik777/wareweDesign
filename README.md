@@ -15,7 +15,6 @@ A modern front-end project scaffolding using **TypeScript**, **Tailwind CSS**, a
 ├── postcss.config.js       # PostCSS plugins and settings
 ├── tailwind.config.ts      # Tailwind CSS configuration
 ├── vite.config.ts          # Vite build config
-└── vite.config.server.ts   # Vite server-specific settings
 ```
 
 ##  Features
